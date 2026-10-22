@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mcyj.github.io/kor-0020-web/sitemap.xml
